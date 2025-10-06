@@ -25,7 +25,7 @@ You can check the application working by navigating to the advertisement_placeme
 
 1.  **Clone the repository:**
     ```bash
-    git clone Advertisement_Placement_Contextual_Ad_Insertion
+    git clone https://github.com/shashankravoor/Advertisement_Placement_Contextual_Ad_Insertion.git
     cd Advertisement_Placement_Contextual_Ad_Insertion
     ```
 
