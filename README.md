@@ -62,19 +62,15 @@ You will also need to have `ffmpeg` installed on your system.
 
 ## ▶️ How to Run
 
-1.  **Place your videos and ads:**
-    *   Place content videos in the `assets/sample_videos/` directory.
-    *   Place ad videos, categorized by brand, in the `assets/ads/Brands/` directory.
-
-2.  **Run the Streamlit application:**
+1.  **Run the Streamlit application:**
     ```bash
     streamlit run smart_placement.py
     ```
 
-3.  **Open your browser:**
+2.  **Open your browser:**
     Navigate to the local URL provided by Streamlit (usually `http://localhost:8501`).
 
-4.  **Using the App:**
+3.  **Using the App:**
     *   Select a video from the dropdown menu.
     *   Choose the desired analysis models (Object Detection, Scene Analysis, Audio Analysis).
     *   Define the time slots for potential ad placements.
